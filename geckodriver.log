@@ -1,0 +1,51 @@
+1650094307808	geckodriver	INFO	Listening on 127.0.0.1:49187
+1650094310900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "c:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofileW8k4Dg"
+1650094312425	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofileW8k4Dg\\search.json.mozlz4", (void 0)))
+1650094315897	Marionette	INFO	Listening on port 49197
+1650094316274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+eground" "-no-remote" "-profile" "c:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofileqKm3Mg"
+1650096191858	geckodriver	INFO	Listening on 127.0.0.1:54065
+1650096194900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "c:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofileAGxJMS"
+1650096195413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofileAGxJMS\\search.json.mozlz4", (void 0)))
+1650096198345	Marionette	INFO	Listening on port 54075
+1650096198619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650096841529	geckodriver	INFO	Listening on 127.0.0.1:56518
+1650096844623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "c:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofileA7sjeP"
+1650096845161	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofileA7sjeP\\search.json.mozlz4", (void 0)))
+1650096847847	Marionette	INFO	Listening on port 56527
+1650096848335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1650096968519	geckodriver	INFO	Listening on 127.0.0.1:56697
+1650096971610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "c:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofilezK8vcQ"
+1650096972116	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofilezK8vcQ\\search.json.mozlz4", (void 0)))
+1650096974986	Marionette	INFO	Listening on port 56706
+1650096975301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1650097047357	geckodriver	INFO	Listening on 127.0.0.1:56837
+1650097050405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "c:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofileCRaa6b"
+1650097050919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofileCRaa6b\\search.json.mozlz4", (void 0)))
+1650097053891	Marionette	INFO	Listening on port 56846
+1650097054118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1650097244376	geckodriver	INFO	Listening on 127.0.0.1:57074
+1650097247413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "c:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofileWhYiAg"
+1650097247966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofileWhYiAg\\search.json.mozlz4", (void 0)))
+1650097250893	Marionette	INFO	Listening on port 57085
+1650097251165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1650097885045	geckodriver	INFO	Listening on 127.0.0.1:57505
+1650097888133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "c:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofile5Rrzvl"
+1650097891317	geckodriver	INFO	Listening on 127.0.0.1:57534
+1650097894395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "c:\\Users\\jukka.niskanen\\AppData\\Local\\robocorp\\temp\\4d65822107fccb3e\\rust_mozprofileEGu9ql"
